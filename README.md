@@ -1,2 +1,12 @@
-# Atliq_EV_Analysis
-Atliq EV Dashboard: Analyzing growth, revenue, profit, and loss, with comparative insights against competitors, visualized through dynamic charts and graphs using Power BI.
+# Atliq EV Analysis Dashboard
+
+This Power BI dashboard provides an in-depth analysis of Atliq EV’s financial performance. Key features include:
+
+- Growth Metrics: Visualizes company growth trends.
+- Revenue Analysis: Breaks down revenue streams and highlights key contributors.
+- Profit and Loss: Offers insights into profit margins and loss areas.
+- Competitive Comparison: Compares Atliq EV’s performance against competitors using dynamic charts and graphs.
+- Interactive Visualizations: Allows users to drill down into specific data segments for detailed analysis.
+- User-Friendly Interface: Features filters and slicers for customized data views, enhancing decision-making.
+  
+This dashboard is an essential tool for stakeholders to monitor financial health and make informed business decisions.
