@@ -12,3 +12,5 @@ This Power BI dashboard provides an in-depth analysis of Atliq EV’s financial 
 - **User-Friendly Interface:** Features filters and slicers for customized data views, enhancing decision-making.
 
 This dashboard is an essential tool for stakeholders to monitor financial health and make informed business decisions.
+![Penetration Rate](https://github.com/ashuid1/Atliq_EV_Analysis/blob/main/Dataset/Screenshot%202024-07-24%20183331.png)
+
