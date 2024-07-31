@@ -1,6 +1,6 @@
 # Atliq EV Analysis Dashboard
 
-![Dashboard Overview]([https://github.com/username/repository-name/blob/main/dashboard.png](https://github.com/ashuid1/Atliq_EV_Analysis/blob/main/Dataset/Screenshot%202024-07-24%20183236.png))
+![Dashboard Overview](https://github.com/ashuid1/Atliq_EV_Analysis/blob/main/Dataset/Screenshot%202024-07-24%20183236.png)
 
 This Power BI dashboard provides an in-depth analysis of Atliq EV’s financial performance. Key features include:
 
